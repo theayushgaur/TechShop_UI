@@ -1,4 +1,4 @@
-# email_ui
+# TechShop_UI
 
 A new Flutter project.
 
